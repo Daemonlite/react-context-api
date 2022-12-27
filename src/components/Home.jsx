@@ -27,6 +27,7 @@ const [product] = useState(products)
         />
       ))}
     </div>
+
   </div>
   )
 }
